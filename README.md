@@ -4,12 +4,12 @@ The idea behind this repo is to provide an always up to date information about a
 
 # GUI
 
-You can access this graphically using the following link https://raw.githubusercontent.com/Supitto/BugBountyDirectory/main/out/latest.json
+You can access this graphically using the following link **Still Need To Creat A Link**
 
 # Programatic Access
 
 You can use this repo to automate you Bug Bounty pipelines. 
-To do that, you can use the latest.json file. It will be updated daily.
+To do that, you can use the [latest.json](https://raw.githubusercontent.com/Supitto/BugBountyDirectory/main/out/latest.json) file. It will be updated daily.
 
 # Help Wanted
 
