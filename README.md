@@ -4,7 +4,7 @@ The idea behind this repo is to provide an always up to date information about a
 
 # GUI
 
-You can access this graphically using the following link <Still need to create link. 
+You can access this graphically using the following link https://raw.githubusercontent.com/Supitto/BugBountyDirectory/main/out/latest.json
 
 # Programatic Access
 
